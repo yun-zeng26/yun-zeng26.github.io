@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Yun Zeng (Eric, 曾运)**.
 
 I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**. I will be attending AAAI-24 in Vancouver, please feel free to chat with me.
 
@@ -14,13 +14,10 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
-
-Expect to apply for a one-year MPhil program and will graduate in Sep 2025. Looking for PhD position after that.
+- **Jun 2022 - Jan 2024:** The University of Queensland (MBus)
+- **Sep 2018 - June 2022:** Southwest University for Nationalities (BA)
+- **Jun 2021 - Aug 2021:** University of Amsterdam (Exchange)
 
 <br>
 
@@ -28,10 +25,10 @@ Expect to apply for a one-year MPhil program and will graduate in Sep 2025. Look
 
 ## Research Interests
 
-- Internet of Everything (IoE)
-- Industrial Automation
-- Network and Cybersecurity
-- Applied Machine Learning
+- Behaviour: Consumer behavior & Organisational behavior
+- Game Theory: Co-operative Game Theory
+- Human Resource Management: Recruitment, Selection, Interview
+- Marketing: Strategic Marketing, Consumer Research
 - [My latest research proposal](https://caihanlin.com/file/proposal-2023.pdf) 🔗
 
 My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
